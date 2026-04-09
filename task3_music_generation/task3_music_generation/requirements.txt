@@ -1,0 +1,17 @@
+# Task 3: Music Generation with AI - Dependencies
+# Install all with: pip install -r requirements.txt
+
+# Deep learning framework
+tensorflow>=2.12.0
+
+# Music parsing and MIDI I/O
+music21>=8.1.0
+
+# Numerical computing (usually installed as a TensorFlow dependency)
+numpy>=1.23.0
+
+# Optional: real-time MIDI playback in Python
+pygame>=2.1.0
+
+# Optional: advanced audio analysis
+# librosa>=0.10.0
