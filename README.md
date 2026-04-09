@@ -1,1 +1,3 @@
 # codealpha_tasks
+
+A two-part AI project covering music generation and real-time object tracking. Task 3 builds an LSTM-based MIDI music generator that learns note patterns from classical and jazz corpora using music21, trains a stacked recurrent network to predict note sequences, and exports generated compositions as playable MIDI files. Task 4 implements a real-time object detection and tracking pipeline using YOLOv8 for per-frame detection and a custom SORT tracker — combining Kalman filtering with the Hungarian algorithm — to assign persistent IDs across video frames, with support for webcam input, video files, and annotated output saving.
